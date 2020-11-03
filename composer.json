@@ -1,0 +1,19 @@
+{
+    "name": "helloarafat/themes",
+    "description": "Theme package for laravel project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arafat Hossain",
+            "email": "hellodev4@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Twinkle\\Themes\\": "/"
+        }
+    }
+}

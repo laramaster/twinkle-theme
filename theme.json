@@ -1,0 +1,11 @@
+[
+    {
+        "Theme Name": "Man",
+        "Thumbnail": "thumbnail.png",
+        "Author": "Arafat",
+        "Version": "1",
+        "License": "GNU General Public License v2 or later",
+        "Text Domain": "man",
+        "status": "active"
+    }
+]
